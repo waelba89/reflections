@@ -38,7 +38,7 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges ma
 
 Commands:
 
-git add  |    Add a file to the staging area
+git add  |    Add a file to the staging area // git add . | add all the file 
 git commit  |    Commit the files from the staging area to the repository 
 git status  |    Show which files are in the staging area, and which files from the working directory are not part of the repository    
 git diff  |    Git diff without arguments is comparing the working directory with the staging area
